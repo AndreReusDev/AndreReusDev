@@ -14,4 +14,4 @@ I'm building projects and improving my skills to grow as a developer.
 - Problem solving
 
 
-## ⭐ More projects coming soon.
+# ⭐ More projects coming soon.
